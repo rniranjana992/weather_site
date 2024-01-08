@@ -1,2 +1,1 @@
-# weather_site
-weather forecasting site
+# weather-web-app
